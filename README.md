@@ -9,7 +9,6 @@ Oracle - OpenJDK
 http://openjdk.java.net/projects/jdk/10/
 
     286: Local-Variable Type Inference  
----
     296: Consolidate the JDK Forest into a Single Repository  
     304: Garbage-Collector Interface  
     307: Parallel Full GC for G1  
